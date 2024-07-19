@@ -1,4 +1,4 @@
-** Amazon Search and Filtering Automation
+Amazon Search and Filtering Automation
 
 ** This project automates the testing of Amazon's search and filtering functionalities using Selenium and Cucumber for Behavior-Driven Development (BDD).
 
@@ -47,16 +47,13 @@
 - Maven
 - ChromeDriver (compatible version with your Chrome browser)
 
-** Installation
+Setup Instructions
+: Clone the repository: git clone (//https://github.com/satyasingh00/AlphabinAssignment.git)
+cd Alphabin_Assignment
+: Install dependencies: mvn clean install
+: Run the tests: mvn test
 
-= **Clone the repository:**
-    ```bash
-    https://github.com/satyasingh00/AlphabinAssignment.git
-
-Ensure ChromeDriver is placed in `src/test/resources` 
-
-## Running the Tests
-
+## Running the Tests 
 Run the code from runner file
 
 
